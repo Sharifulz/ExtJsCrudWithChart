@@ -1,0 +1,27 @@
+
+   [
+    {
+        "id": 1,
+        "name": "shaariful",
+        "age": 25,
+        "salary": 25000
+    },
+    {
+        "id": 2,
+        "name": "Monirul",
+        "age": 26,
+        "salary": 25000
+    },
+    {
+        "id": 3,
+        "name": "Aminul",
+        "age": 27,
+        "salary": 10000
+    },
+     {
+        "id": 4,
+        "name": "Sayem",
+        "age": 27,
+        "salary": 40000
+    }
+]
